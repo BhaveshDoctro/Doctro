@@ -1,0 +1,23 @@
+{
+  "name": "Doctro App",
+  "displayName": "Doctro App",
+  "dbKey": "Doctro App2",
+  "orientation": "portrait",
+  "appDebug": false,
+  "env": {
+    "_name": "local | staging | production",
+    "name": "staging",
+    "local": {
+      "apiURL": "http://192.168.43.120:3000/",
+      "language": "en"
+    },
+    "staging": {
+      "apiURL": "https://devgov3.azurewebsites.net/",
+      "language": "en"
+    },
+    "production": {
+      "apiURL": "https://dev.emun.zangula.net/",
+      "language": "he"
+    }
+  }
+}

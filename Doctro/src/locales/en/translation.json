@@ -1,0 +1,23 @@
+{
+  "BUTTONS": {
+    "BACK": "Back",
+    "CONTINUE": "CONTINUE",
+    "NO": "No",
+    "YES": "Yes",
+    "OK": "OK",
+    "CANCEL": "Cancel",
+    "CONNECT": "Connect",
+    "DISCONNECT": "Disconnect",
+    "SEND": "Send",
+    "CONFIRM": "Confirm",
+    "NEXT": "Next",
+    "TRY_AGAIN": "Try again"
+  },
+  "AUTH": {
+    "WELCOME_TITLE": "Welcome to the Doctro",
+    "ENTER_PHONE_NUMBER": "Enter Your Phone",
+    "MESSAGE_CODE": "You’ll recieve a 4 digit code to verify next.",
+    "VERIFY_PHONE": "Verify Phone",
+    "ENTER_VALID_PHONE_NUMBER": "Enter valid phone number"
+  }
+}
